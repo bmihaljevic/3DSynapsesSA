@@ -1,0 +1,10 @@
+---
+title: "new-analysis"
+output: html_document
+---
+
+```{r}  
+createSampleSPP 
+computeSppLEnvelope
+plotSppLEnvelope
+```
