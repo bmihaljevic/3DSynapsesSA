@@ -7,4 +7,5 @@ output: html_document
 createSampleSPP 
 computeSppLEnvelope
 plotSppLEnvelope
+nRSASimulations 
 ```
